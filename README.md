@@ -10,7 +10,7 @@ This repository is a companion to the manuscript submitted to the *International
 
 | Companion artefact | Repository | DOI |
 |---|---|---|
-| Benchmark dataset | [`gleiston-guerrero/SimilCode-Benchmark`](https://github.com/gleiston-guerrero/SimilCode-Benchmark) [10.5281/zenodo.21271491](https://doi.org/10.5281/zenodo.21271491) |
+| Benchmark dataset | [`gleiston-guerrero/SimilCode-Benchmark`](https://github.com/gleiston-guerrero/SimilCode-Benchmark) | [10.5281/zenodo.21271491](https://doi.org/10.5281/zenodo.21271491) |
 | Backend service   | [`gleiston-guerrero/BackEnd-SimilCode`](https://github.com/gleiston-guerrero/BackEnd-SimilCode) | [10.5281/zenodo.21265177](https://doi.org/10.5281/zenodo.21265177) |
 | Frontend client   | [`gleiston-guerrero/FrontEnd-SimilCode`](https://github.com/gleiston-guerrero/FrontEnd-SimilCode) | [10.5281/zenodo.21265976](https://doi.org/10.5281/zenodo.21265976) |
 
