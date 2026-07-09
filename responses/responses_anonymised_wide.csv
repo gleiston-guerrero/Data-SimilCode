@@ -1,0 +1,6 @@
+participant_id,anios_experiencia_raw,anios_experiencia_num,asignaturas_impartidas,lenguajes_dominados,A_Q01_utilidad_deteccion_similitudes,A_Q02_utilidad_analisis_multidimensional,A_Q03_utilidad_complejidad_bigO,A_Q04_utilidad_ahorro_tiempo,A_Q05_utilidad_modulo_individual,A_Q06_utilidad_modulo_grupal,A_Q07_utilidad_uso_regular_docente,B_Q08_precision_puntajes_vs_experto,B_Q09_precision_identifica_codigo_identico,B_Q10_precision_distingue_funcional_estructural,B_Q11_precision_detecta_codigo_diferente,B_Q12_precision_analisis_complejidad_correcto,B_Q13_precision_confianza_decisiones_academicas,C_Q14_justif_claras_comprensibles,C_Q15_justif_aspectos_tecnicos_relevantes,C_Q16_justif_nivel_detalle_apropiado,C_Q17_justif_ayudan_entender_puntaje,C_Q18_justif_terminologia_precisa
+P01,Cuatro semestres,2,Calidad de Software,Python; Java; C#; Visual Basic; HTML,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5
+P02,4 años,4,Programación I; Fundamentos de Programación,C#; C++; Visual.NET; Java,5,5,5,5,5,5,5,3,5,4,4,4,4,4,4,3,5,4
+P03,5 años,5,Fundamentos de Programación,C#; Pascal; Basic; C++; HTML,4,4,4,4,4,4,4,5,5,5,5,5,5,5,5,5,5,5
+P04,6 años,6,Algoritmos,C++; C; C#,5,5,5,5,5,5,5,5,5,5,5,5,5,4,4,3,5,4
+P05,33 años,33,Programación I,Basic; Fox; Pascal; C; C++; C#,5,5,5,5,5,5,5,3,5,4,4,4,4,5,5,5,5,5

@@ -1,0 +1,36 @@
+feat: initial release v1.0.0 — expert-validation companion dataset
+
+Publishes the SimilCode-Validation companion dataset supporting the
+expert-validation phase of the SimilCode study.
+
+Root files:
+- README.md ................. Dataset overview, structure, ethics, citation
+- LICENSE ................... Creative Commons Attribution 4.0 International
+- CITATION.cff .............. Citation metadata, CFF v1.2.0 (dataset)
+- CHANGELOG.md .............. Keep-a-Changelog v1.1.0 / SemVer 2.0.0
+
+instrument/ (blank data-collection instruments, bilingual):
+- Consentimiento_Entrevista_TEMPLATE_es.pdf              (2025, ES)
+- Consentimiento_Validacion_SimilCode_TEMPLATE_es.pdf    (2026, ES)
+- Encuesta_Utilidad_Precision_TEMPLATE_es.pdf            (18 items, ES)
+- Informed_Consent_Interview_TEMPLATE_en.pdf             (2025, EN)
+- Informed_Consent_Validation_SimilCode_TEMPLATE_en.pdf  (2026, EN)
+- Survey_Usefulness_Accuracy_TEMPLATE_en.pdf             (18 items, EN)
+
+responses/ (anonymised expert responses, P01-P05):
+- respuestas_encuesta_similcode_wide.csv   (5 rows x 22 cols)
+- respuestas_encuesta_similcode_long.csv   (90 rows: 5 x 18 items)
+- variables_codebook.csv                   (bilingual variable dictionary)
+
+Ethics:
+- All raw responses anonymised (P01-P05); no PII remains.
+- Written informed consent obtained from all five participants.
+- No student-submitted code included.
+
+Companion artefacts:
+- BackEnd-SimilCode  ......... doi:10.5281/zenodo.21265178
+- FrontEnd-SimilCode ......... doi:10.5281/zenodo.21265977
+- SimilCode-Benchmark ........ doi:10.5281/zenodo.21271492
+
+Supports the manuscript submitted to the International Journal for
+Educational Integrity (Springer Nature).

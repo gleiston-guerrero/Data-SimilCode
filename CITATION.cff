@@ -1,0 +1,72 @@
+cff-version: 1.2.0
+message: >-
+  If you use this dataset, please cite it using the metadata below.
+title: >-
+  SimilCode-Validation: Expert-panel instruments and anonymised
+  responses for the content-validity study of the SimilCode tool
+abstract: >-
+  Companion validation dataset for the SimilCode study. Contains the
+  blank data-collection instruments (informed-consent forms and an
+  18-item structured questionnaire on a 5-point Likert scale) together
+  with the anonymised responses of the five-expert panel that evaluated
+  the SimilCode web application at the Faculty of Computer Sciences of
+  Universidad Técnica Estatal de Quevedo (UTEQ), Ecuador. The 18 items
+  are organised in three sections: practical usefulness (Q01–Q07),
+  accuracy of results (Q08–Q13), and comprehensibility of justifications
+  (Q14–Q18). This dataset supports the manuscript submitted to the
+  International Journal for Educational Integrity (Springer Nature).
+type: dataset
+version: 1.0.0
+date-released: '2026-07-09'
+license: CC-BY-4.0
+repository-code: 'https://github.com/gleiston-guerrero/SimilCode-Validation'
+url: 'https://github.com/gleiston-guerrero/SimilCode-Validation'
+doi: 10.5281/zenodo.ZZZZZZZ
+keywords:
+  - source-code similarity
+  - algorithmic efficiency
+  - generative artificial intelligence
+  - academic integrity
+  - expert validation
+  - content validity
+  - Likert scale
+  - programming education
+  - C-sharp
+  - Java
+authors:
+  - family-names: Guerrero-Ulloa
+    given-names: Gleiston Cicerón
+    email: gguerrero@uteq.edu.ec
+    orcid: 'https://orcid.org/0000-0001-5990-2357'
+    affiliation: >-
+      Faculty of Computer Sciences, Universidad Técnica Estatal de
+      Quevedo (UTEQ), Quevedo, Los Ríos, Ecuador
+  - family-names: Navas Rivera
+    given-names: Rafael Alexander
+    email: rafael.navas2017@uteq.edu.ec
+    orcid: 'https://orcid.org/0009-0005-7926-2648'
+    affiliation: >-
+      Faculty of Computer Sciences, Universidad Técnica Estatal de
+      Quevedo (UTEQ), Quevedo, Los Ríos, Ecuador
+  - family-names: Díaz-Macías
+    given-names: Efraín
+    email: efraindiaz@uteq.edu.ec
+    orcid: 'https://orcid.org/0000-0003-4087-029X'
+    affiliation: >-
+      Faculty of Computer Sciences, Universidad Técnica Estatal de
+      Quevedo (UTEQ), Quevedo, Los Ríos, Ecuador
+  - family-names: Hornos
+    given-names: Miguel J.
+    email: mhornos@ugr.es
+    orcid: 'https://orcid.org/0000-0001-5722-9816'
+    affiliation: >-
+      Department of Software Engineering, University of Granada (UGR),
+      Granada, Spain
+  - family-names: Rodríguez-Domínguez
+    given-names: Carlos
+    email: carlosrodriguez@ugr.es
+    orcid: 'https://orcid.org/0000-0001-5626-3115'
+    affiliation: >-
+      Department of Software Engineering, and Research Center for
+      Information and Communication Technologies (CITIC), University of
+      Granada (UGR), Granada, Spain
